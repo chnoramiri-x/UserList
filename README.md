@@ -6,10 +6,10 @@ The task is a good example to work with some JavaScript principles such as ```ma
 The task was a question of [This Iranian website](https://quera.ir/course/assignments/13823/problems) which was a good challenge
 for me as a fresh front-end developer, then I decided to share it with you.
 
-#How does it work?
+# How does it work?
 At the first step the user list from ```users.json``` file is read, next those users who have the role of ```user```
 would be shown in a list with ```userItem``` component. Finally, the average of age of those users who has the role of ```admin```
 would be calculated and shown through ```AverageAge``` component.
 
-#Conclusion
+# Conclusion
 It might be a simple task at the first glance, but for those who are fresh in JavaScript is really good challenging.

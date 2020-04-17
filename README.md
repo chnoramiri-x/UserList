@@ -1,5 +1,5 @@
 # The UserList assignment
-This task reads a user list from a JSON file, then show them in a list with an average of their age. 
+This React task reads a user list from a JSON file, then show them in a list with an average of their age. 
 The task is a good example to work with some JavaScript principles such as ```map```, ```reduce```, and ```filter```.
 
 # Where is the assignment coming from?
@@ -12,4 +12,4 @@ would be shown in a list with ```userItem``` component. Finally, the average of 
 would be calculated and shown through ```AverageAge``` component.
 
 # Conclusion
-It might be a simple task at the first glance, but for those who are fresh in JavaScript is really good challenging.
+It might be a simple task at the first glance, but for those who are fresh in JavaScript and React is a really valuable challenging.
